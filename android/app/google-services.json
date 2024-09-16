@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861509180137",
+    "project_id": "todo-104d3",
+    "storage_bucket": "todo-104d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861509180137:android:9f28a797861f45d44a6e78",
+        "android_client_info": {
+          "package_name": "com.example.flutter_reccuring_reminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABvFfI42R46wfiMdRJhNcc8cna7koHnd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
